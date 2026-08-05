@@ -7,7 +7,7 @@ setup(
     py_modules=["main"],
     install_requires=[
         "requests==2.34.2",
-        "urllib3==1.24.1",
+        "urllib3==1.26.20+lineaje.1",
         "Jinja2==2.10",
         "PyYAML==5.3",
     ],
